@@ -1,0 +1,10 @@
+Czechia, Parity- and age-adjusted total fertility rate (based on parity distribution from population census)
+Last modified: 02/02/2023
+Year    PATFR   PATFR1   PATFR2   PATFR3   PATFR4  PATFR5p
+1950    2.922    0.916    0.783    0.482    0.280    0.460
+1961    2.105    0.929    0.738    0.286    0.089    0.063
+1970    1.924    0.922    0.700    0.205    0.054    0.042
+1980    2.110    0.943    0.809    0.263    0.062    0.034
+1991    1.905    0.924    0.731    0.188    0.042    0.021
+2001    1.287    0.756    0.435    0.073    0.014    0.009
+2011    1.493    0.798    0.536    0.112    0.026    0.021

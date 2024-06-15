@@ -1,0 +1,5 @@
+Ukraine, Period table mean ages at birth by birth order (based on parity distribution from population census)
+Last modified: 13/11/2015
+Year     TMAB    TMAB1    TMAB2    TMAB3    TMAB4   TMAB5p
+1979    25.46    22.58    27.33    30.38    31.95    34.62
+2001    25.48    24.09    28.02    30.02    31.19    33.52

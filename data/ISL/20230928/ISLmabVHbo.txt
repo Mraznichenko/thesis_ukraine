@@ -1,0 +1,10 @@
+Iceland, Cohort mean ages at birth by birth order and cohort mean ages at birth by birth order by age 40
+Last modified: 06/09/2023
+Cohort    CMAB     CMAB1     CMAB2     CMAB3     CMAB4    CMAB5p    CMAB40  CMAB40_1  CMAB40_2  CMAB40_3  CMAB40_4 CMAB40_5p
+1975         .         .         .         .         .         .     28.97     25.88     29.58     32.81     34.40     35.43
+1976         .         .         .         .         .         .     28.94     25.97     29.81     32.80     33.80     33.57
+1977         .         .         .         .         .         .     28.90     25.89     29.75     32.68     33.73     35.33
+1978         .         .         .         .         .         .     28.93     25.86     29.66     32.70     34.04     35.64
+1979         .         .         .         .         .         .     28.98     26.23     29.74     32.48     33.67     34.81
+1980         .         .         .         .         .         .     28.71     26.05     29.57     32.10     33.51     34.66
+1981         .         .         .         .         .         .     28.91     26.37     29.82     32.47     33.36     35.21

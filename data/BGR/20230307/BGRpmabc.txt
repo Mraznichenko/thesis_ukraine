@@ -1,0 +1,5 @@
+Bulgaria, Period table mean ages at birth by birth order (based on parity distribution from population census)
+Last modified: 01/12/2022
+Year     TMAB    TMAB1    TMAB2    TMAB3    TMAB4   TMAB5p
+2001    25.67    24.73    26.98    26.17    27.47    30.89
+2011    27.25    25.93    28.73    28.19    28.17    31.80

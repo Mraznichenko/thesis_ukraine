@@ -1,0 +1,10 @@
+Czechia, Period table mean ages at birth by birth order (based on parity distribution from population census)
+Last modified: 02/02/2023
+Year     TMAB    TMAB1    TMAB2    TMAB3    TMAB4   TMAB5p
+1950    27.70    23.15    26.36    29.38    31.55    34.94
+1961    25.31    22.63    26.06    28.85    30.54    32.72
+1970    24.96    22.57    26.13    28.84    30.26    31.92
+1980    24.62    22.32    25.23    28.62    30.59    32.38
+1991    24.82    22.58    25.91    29.36    31.08    32.77
+2001    28.05    26.83    29.38    31.60    31.89    32.23
+2011    29.92    28.51    31.16    32.96    32.69    32.64

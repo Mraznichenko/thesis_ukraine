@@ -1,0 +1,5 @@
+Iceland, Parity- and age-adjusted total fertility rate
+Last modified: 06/09/2023
+Year    PATFR   PATFR1   PATFR2   PATFR3   PATFR4  PATFR5p
+2020    1.808    0.878    0.642    0.240    0.039    0.008
+2021    1.838    0.842    0.620    0.273    0.071    0.032

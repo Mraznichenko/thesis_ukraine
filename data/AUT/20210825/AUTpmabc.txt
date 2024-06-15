@@ -1,0 +1,5 @@
+Austria, Period table mean ages at birth by birth order (based on parity distribution from population census)
+Last modified: 05/08/2021
+Year     TMAB    TMAB1    TMAB2    TMAB3    TMAB4   TMAB5p
+1991    27.24    25.43    28.05    30.71    32.63    34.59
+2001    28.55    27.18    29.47    31.57    33.00    34.67

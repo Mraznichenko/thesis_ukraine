@@ -1,0 +1,4 @@
+Austria, Cohort parity progression ratios
+Last modified: 05/08/2021
+Cohort   PPR0_1    PPR1_2    PPR2_3    PPR3_4
+1969      0.793     0.715     0.325     0.274

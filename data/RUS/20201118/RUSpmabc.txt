@@ -1,0 +1,7 @@
+Russian Federation, Period table mean ages at birth by birth order (based on parity distribution from population census)
+Last modified: 02/10/2020
+Year     TMAB    TMAB1    TMAB2    TMAB3    TMAB4   TMAB5p
+1979    25.64    22.88    27.37    30.32    31.79    34.71
+1989    25.43    22.52    26.75    30.27    32.31    35.11
+2002    26.27    24.42    28.91    31.28    32.65    35.04
+2010    27.68    25.26    29.48    32.32    33.98    36.02

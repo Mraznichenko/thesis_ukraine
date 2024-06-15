@@ -1,0 +1,5 @@
+Austria, Parity- and age-adjusted total fertility rate (based on parity distribution from population census)
+Last modified: 05/08/2021
+Year    PATFR   PATFR1   PATFR2   PATFR3   PATFR4  PATFR5p
+1991    1.524    0.775    0.511    0.172    0.048    0.018
+2001    1.361    0.734    0.458    0.128    0.030    0.010

@@ -1,0 +1,5 @@
+Iceland, Period table mean ages at birth by birth order
+Last modified: 06/09/2023
+Year     TMAB    TMAB1    TMAB2    TMAB3    TMAB4   TMAB5p
+2020    30.92    28.99    31.98    34.27    35.36    36.07
+2021    31.07    29.24    31.69    33.72    35.27    35.41

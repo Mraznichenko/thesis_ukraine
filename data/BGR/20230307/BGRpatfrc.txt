@@ -1,0 +1,5 @@
+Bulgaria, Parity- and age-adjusted total fertility rate (based on parity distribution from population census)
+Last modified: 01/12/2022
+Year    PATFR   PATFR1   PATFR2   PATFR3   PATFR4  PATFR5p
+2001    1.348    0.830    0.387    0.067    0.028    0.037
+2011    1.532    0.846    0.488    0.099    0.039    0.059
